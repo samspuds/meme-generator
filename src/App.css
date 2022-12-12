@@ -56,6 +56,7 @@ input {
   width: 15em;
   background-color: skyblue;
   text-align: center;
+  width: 75%;
 }
 
 .btn {
@@ -67,15 +68,14 @@ input {
   font-weight: 900;
 }
 .imgContainer {
-  height: 30em;
-  width: 30em;
   position: relative;
+  width: 100%;
 }
 img {
   border-radius: 10px;
   border: none;
+
   width: 100%;
-  height: 100%;
 }
 
 .toppy {
